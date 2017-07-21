@@ -1,0 +1,11 @@
+body {background-color: yellow;}
+p {}
+a {color: blue;}
+a:hover {color:red;}
+
+section, aside {float:left;}
+
+section {width: 70%;}
+aside {width: 20%;}
+
+img {width: 200px;}
